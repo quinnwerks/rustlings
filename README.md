@@ -1,4 +1,4 @@
-# rustlings Solutions 🦀❤️
+# rustlings solutions 🦀❤️
 
 Hi! In the interest of learning rust I decided to fork `rustlings`. This repo contains my solutions 😊.
 
